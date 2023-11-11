@@ -6,7 +6,7 @@
 
 - :video_game: Playing: **Remnant II**
 - :book: Reading: **One Piece / Jujutsu Kaisen** 
-- :punch: Watching: **UFC 295**
+- 📺: Watching: **UFC 295**
 - :mag: Learning: **Spring Boot, .NET**
   
 ## Profiles 
