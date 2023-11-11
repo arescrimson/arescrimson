@@ -4,8 +4,10 @@ I’m currently working on projects involving software/web/game development in J
 
 ## Profiles 
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://seralol.itch.io/)
+[![Gmail](https://img.shields.io/badge/Gmail:%20areszee7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord:%20arescrimson-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Itch.io](https://img.shields.io/badge/Itch-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://seralol.itch.io/)
+
 
 
 
