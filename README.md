@@ -4,9 +4,9 @@
 
 ### Interests
 
-- :video_game: Playing: **Remnant II**
+- :video_game: Playing: **Cyberpunk 2077**
 - :book: Reading: **One Piece / Jujutsu Kaisen** 
-- 📺: Watching: **UFC 295**
+- 📺: Watching: **UFC 296**
 - :mag: Learning: **Spring Boot, .NET**
   
 ### Profiles 
