@@ -4,10 +4,10 @@
 
 ### Interests
 
-- :video_game: Playing: **Cyberpunk 2077**
-- :book: Reading: **One Piece / Jujutsu Kaisen** 
+- 🎮: Playing: **Cyberpunk 2077**
+- 📖: Reading: **One Piece / Jujutsu Kaisen** 
 - 📺: Watching: **UFC 296**
-- :mag: Learning: **Spring Boot, .NET**
+- 🔍: Learning: **Spring Boot, .NET**
   
 ### Profiles 
 
