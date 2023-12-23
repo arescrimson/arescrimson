@@ -7,7 +7,7 @@
 - 🎮: Playing: **Cyberpunk 2077**
 - 📖: Reading: **One Piece / Jujutsu Kaisen** 
 - 📺: Watching: **UFC 296**
-- 🔍: Learning: **Spring Boot, .NET**
+- 🔍: Learning: **Next.js**
   
 ### Profiles 
 
