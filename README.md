@@ -5,7 +5,7 @@
 ### Interests
 
 - 🎮: Playing: **Cyberpunk 2077**
-- 📖: (Re)Reading: **Alita: Battle Angel** 
+- 📖: (Re)Reading: **Alita** 
 - 📺: Watching: **UFC 296**
 - 🔍: Learning: **Next.js**
   
