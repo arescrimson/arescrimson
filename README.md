@@ -6,7 +6,7 @@
 
 - 🎮: Playing: **Cyberpunk 2077**
 - 📖: (Re)Reading: **Alita** 
-- 📺: Watching: **UFC 296**
+- 📺: Watching: **UFC 297**
 - 🔍: Learning: **Next.js**
   
 ### Profiles 
