@@ -19,7 +19,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://i.makeagif.com/media/5-09-2018/4RxacX.gif">
+  <img align="center" alt="Coding" width="450" src="https://media0.giphy.com/media/xMkWcQ9xTGH8A/giphy.gif?cid=6c09b952x9g3ohu5f03ya7q9h07l1rg73k1t18dxmxw23u1a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
   
   </td>
