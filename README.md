@@ -1,5 +1,5 @@
 <h1 align="center">😁Hi, I'm Ares!</h1>
-<h3 align="center">Computer Science Student | Programmer </h3>
+<h3 align="center">20 | CS Student | Programmer</h3>
 
 <table align="center">
 <tr border="none">
@@ -63,5 +63,5 @@
   
 [![Gmail](https://img.shields.io/badge/Gmail:%20areszee7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord:%20arescrimson-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Itch.io](https://img.shields.io/badge/Itch-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://seralol.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch:%20seralol-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://seralol.itch.io/)
 </div>
