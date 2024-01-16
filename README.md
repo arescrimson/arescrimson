@@ -8,13 +8,13 @@
 
 - 💖 Building: **Lytro**
   
-- 🎮 Playing: **Cyberpunk 2077, Valheim**
+- 🎮 Playing: **Cyberpunk 2077, Destiny 2**
 
 - 📖 Reading: **Alita, One Piece**
 
 - 📺 Watching: **UFC 297**
 
-- 🔍 Learning: **Next.js**
+- 🔍 Learning: **React, Next**
   
 </td>
 <td width="50%" align="center">
