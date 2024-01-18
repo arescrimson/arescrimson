@@ -15,7 +15,6 @@
 - 📺 Watching: **UFC 297**
 
 - 🔍 Learning: **React, Next**
-  
 </td>
 <td width="50%" align="center">
 
