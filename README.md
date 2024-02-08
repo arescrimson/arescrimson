@@ -12,7 +12,7 @@
 
 - 📖 Reading: **Alita, One Piece**
 
-- 📺 Watching: **UFC 297**
+- 📺 Watching: **UFC 298**
 
 - 🔍 Learning: **React, Next**
 </td>
