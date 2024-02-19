@@ -8,9 +8,9 @@
 
 - 💖 Building: **Lytro**
   
-- 🎮 Playing: **Cyberpunk 2077, Destiny 2**
+- 🎮 Playing: **Lies of P**
 
-- 📖 Reading: **Alita, One Piece**
+- 📖 Reading: **One Piece**
 
 - 📺 Watching: **UFC 298**
 
