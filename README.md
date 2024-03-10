@@ -1,5 +1,5 @@
 <h1 align="center">😁Hi, I'm Ares!</h1>
-<h3 align="center">20 | CS Student | Programmer</h3>
+<h3 align="center">20 | CS Student | Developer</h3>
 
 <table align="center">
 <tr border="none">
