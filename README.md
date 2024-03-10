@@ -10,7 +10,7 @@
   
 - 🎮 Playing: **Lies of P**
 
-- 📖 Reading: **One Piece**
+- 📖 Reading: **Tower of God**
 
 - 📺 Watching: **UFC 299**
 
