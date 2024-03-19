@@ -12,7 +12,7 @@
 
 - 📖 Reading: **Tower of God**
 
-- 📺 Watching: **UFC 299**
+- 📺 Watching: **UFC 300**
 
 - 🔍 Learning: **React, Next**
 </td>
