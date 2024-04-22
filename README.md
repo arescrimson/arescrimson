@@ -8,13 +8,13 @@
 
 - 💖 Building: **Lytro**
   
-- 🎮 Playing: **Lies of P**
+- 🎮 Playing: **Horizon Forbidden West**
 
 - 📖 Reading: **Tower of God**
 
-- 📺 Watching: **UFC 300**
+- 📺 Watching: **UFC 301**
 
-- 🔍 Learning: **React, Next**
+- 🔍 Learning: **TypeScript, Nest** 
 </td>
 <td width="50%" align="center">
 
