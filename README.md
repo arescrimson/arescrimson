@@ -12,7 +12,7 @@
 
 - 📖 Reading: **Tower of God**
 
-- 📺 Watching: **UFC 301**
+- 📺 Watching: **Fury vs Usyk**
 
 - 🔍 Learning: **TypeScript, Nest** 
 </td>
