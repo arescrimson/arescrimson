@@ -10,11 +10,11 @@
   
 - 🎮 Playing: **Horizon Forbidden West**
 
-- 📖 Reading: **Tower of God**
+- 📖 Reading: **One Piece**
 
-- 📺 Watching: **Fury vs Usyk**
+- 📺 Watching: **UFC 302**
 
-- 🔍 Learning: **TypeScript, Nest** 
+- 🔍 Learning: **Rust, Go** 
 </td>
 <td width="50%" align="center">
 
