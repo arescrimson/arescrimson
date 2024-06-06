@@ -8,7 +8,7 @@
 
 - 💖 Building: **Lytro**
   
-- 🎮 Playing: **Horizon Forbidden West**
+- 🎮 Playing: **Hades**
 
 - 📖 Reading: **One Piece**
 
