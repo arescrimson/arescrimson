@@ -8,7 +8,7 @@
 
 - 💖 Building: **Lytro**
   
-- 🎮 Playing: **Hades**
+- 🎮 Playing: **Elden Ring**
 
 - 📖 Reading: **One Piece**
 
