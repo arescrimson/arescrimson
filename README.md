@@ -1,5 +1,5 @@
 <h1 align="center">😁Hi, I'm Ares!</h1>
-<h3 align="center">20 | CS Student | Developer</h3>
+<h3 align="center">20</h3>
 
 <table align="center">
 <tr border="none">
@@ -12,7 +12,7 @@
 
 - 📖 Reading: **One Piece**
 
-- 📺 Watching: **UFC 305**
+- 📺 Watching: **UFC 306**
 
 - 🔍 Learning: **Rust** 
 </td>
