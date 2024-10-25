@@ -6,13 +6,13 @@
 <td width="50%" align="left">
 <h2 align = "center">Currently...</h2>
 
-- 💖 Building: **Lytro**
+- 💖 Building: **cool fun thing**
   
-- 🎮 Playing: **Elden Ring**
+- 🎮 Playing: **Risk of Rain 2**
 
 - 📖 Reading: **One Piece**
 
-- 📺 Watching: **UFC 306**
+- 📺 Watching: **UFC 308**
 
 - 🔍 Learning: **Rust** 
 </td>
