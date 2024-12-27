@@ -1,5 +1,5 @@
 <h1 align="center">😁Hi, I'm Ares!</h1>
-<h3 align="center">20</h3>
+<h3 align="center">21</h3>
 
 <table align="center">
 <tr border="none">
@@ -8,11 +8,11 @@
 
 - 💖 Building: **cool fun thing**
   
-- 🎮 Playing: **Risk of Rain 2**
+- 🎮 Playing: **Balatro**
 
 - 📖 Reading: **One Piece**
 
-- 📺 Watching: **UFC 310**
+- 📺 Watching: **UFC 311**
 
 - 🔍 Learning: **Rust** 
 </td>
