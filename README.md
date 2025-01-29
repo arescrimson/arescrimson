@@ -12,7 +12,7 @@
 
 - 📖 Reading: **One Piece**
 
-- 📺 Watching: **UFC 311**
+- 📺 Watching: **UFC 312**
 
 - 🔍 Learning: **Rust** 
 </td>
