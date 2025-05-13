@@ -8,11 +8,11 @@
 
 - 💖 Building: **cool fun thing**
   
-- 🎮 Playing: **Balatro**
+- 🎮 Playing: **Expedition 33**
 
 - 📖 Reading: **One Piece**
 
-- 📺 Watching: **UFC 313**
+- 📺 Watching: **Andor**
 
 - 🔍 Learning: **Rust** 
 </td>
