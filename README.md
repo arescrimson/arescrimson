@@ -10,7 +10,7 @@
   
 - 🎮 Playing: **Expedition 33**
 
-- 📖 Reading: **One Piece**
+- 📖 Reading: **Rurouni Kenshin**
 
 - 📺 Watching: **Andor**
 
