@@ -1,4 +1,4 @@
-<h1 align="center">😁Hi, I'm Ares!</h1>
+<h1 align="center">Hi😁</h1>
 <h3 align="center">21</h3>
 
 <table align="center">
