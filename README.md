@@ -67,5 +67,4 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord:%20arescrimson-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Itch.io](https://img.shields.io/badge/Itch-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://seralol.itch.io/)
 </div>
