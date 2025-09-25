@@ -8,13 +8,13 @@
 
 - 💖 Building: **cool fun thing**
   
-- 🎮 Playing: **Expedition 33**
+- 🎮 Playing: **Hades 2**
 
-- 📖 Reading: **Rurouni Kenshin**
+- 📖 Reading: **Demon Slayer(again)**
 
-- 📺 Watching: **Andor**
+- 📺 Watching: ****
 
-- 🔍 Learning: **Rust** 
+- 🔍 Learning: **** 
 </td>
 <td width="50%" align="center">
 
