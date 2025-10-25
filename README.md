@@ -8,13 +8,13 @@
 
 - 💖 Building: **cool fun thing**
   
-- 🎮 Playing: **Hades 2**
+- 🎮 Playing: **Borderlands 4**
 
-- 📖 Reading: **Demon Slayer(again)**
+- 📖 Reading: **Gideon the Ninth**
 
-- 📺 Watching: ****
+- 📺 Watching: **Ghibli Movies I feel like watching**
 
-- 🔍 Learning: **** 
+- 🔍 Learning: **cool fun thing x2** 
 </td>
 <td width="50%" align="center">
 
